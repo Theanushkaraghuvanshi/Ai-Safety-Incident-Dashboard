@@ -1,4 +1,4 @@
-# Ai-Safety-Incident-Dashboard
+# Ai-Safety-Incident-Dashboard (Link to Git Repo: https://github.com/Theanushkaraghuvanshi/Ai-Safety-Incident-Dashboard)
 A clean, responsive web dashboard to view, filter, sort, search, and report AI safety incidents.  
 Built using **React**, **TypeScript**, **Vite**, and **Bootstrap 5**.
 
